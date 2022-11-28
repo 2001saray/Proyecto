@@ -15,7 +15,8 @@ El cáncer de mama es una enfermedad en la que las células de la mama crecen de
 
 En este documentos se utilizan etiquetas y características las cuales permiten diferenciar que tipo de cáncer, así mismo se eligieron datos numéricos para el análisis de estos. 
 
-![image](https://user-images.githubusercontent.com/119226341/204189027-3fb1fc46-338a-489f-9daf-de8666447422.png)
+![image](https://user-images.githubusercontent.com/119226341/204195859-78b4365f-41ef-4aad-8d93-d01521096562.png)
+
 
 A continuación se presenta el procedimiento para identificación y desarrollo de los modelos: 
 
